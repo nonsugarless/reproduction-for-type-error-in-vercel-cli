@@ -1,4 +1,4 @@
-# Reproduction for type error in vercel cli runtime
+# Reproduction for type error in vercel cli
 Type errors occur at `vercel dev` runtime, probably because vercel cli is ignoring the typescript version of the project.
 Overriding the version does not solve this problem.
 ## Reproduction steps
