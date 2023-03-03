@@ -29,7 +29,7 @@ npm start
 > http://localhost:5005/api/satisfies-operator.ts
 > http://localhost:5005/api/private-identifiers.ts
 
-7. Your terminal is reporting type errors like above.
+7. Your terminal will report type errors like below.
 
 **Satisfies Operator**
 > api/satisfies-operator.ts:9:3 - error TS1005: ',' expected.
