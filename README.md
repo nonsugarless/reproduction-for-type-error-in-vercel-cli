@@ -26,8 +26,8 @@ npm start
 ```
 
 6. Access to API endpoints.
-> http://localhost:5005/api/satisfies-operator.ts
-> http://localhost:5005/api/private-identifiers.ts
+- http://localhost:5005/api/satisfies-operator.ts
+- http://localhost:5005/api/private-identifiers.ts
 
 7. Your terminal will report type errors like below.
 
